@@ -58,7 +58,7 @@ Atomic Transactions at Scale | Fault-Tolerant Architecture | Real-Time Monitorin
 
 ### 1. **Clone & Install**
 
-git clone https://github.com/yourusername/yourrepo.git
+git clone https://github.com/Motupallisailohith/AtomicCommit-Viz/tree/master
 cd yourrepo
 npm install
 cd my-2pc-ui
