@@ -10,7 +10,7 @@ Atomic Transactions at Scale | Fault-Tolerant Architecture | Real-Time Monitorin
 
 ## 🏗️ Architecture
 
-![System Architecture](https://en.wikipedia.org/wiki/File:Two_phase_commit_seq_diagram_success_01.png)
+![System Architecture](https://github.com/Motupallisailohith/AtomicCommit-Viz/blob/master/Actors.png)
 
 - **Coordinator:** Orchestrates transactions, manages protocol phases, and ensures atomicity.
 - **Participants (Nodes):** Receive instructions, vote on transactions, and commit/abort based on consensus.
