@@ -1,5 +1,7 @@
 # 🌐 Distributed Two-Phase Commit (2PC) System
 Atomic Transactions at Scale | Fault-Tolerant Architecture | Real-Time Monitoring
+The two-phase commit (2PC) protocol is a distributed algorithm that ensures a transaction either commits or aborts across all participating nodes in a distributed system. 
+This ensures data consistency and prevents partial updates. The protocol involves two phases: a prepare phase and a commit/abort phase. 
 
 ✅ Distributed systems design  
 ✅ Fault tolerance & consensus protocols  
